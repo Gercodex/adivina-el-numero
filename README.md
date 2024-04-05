@@ -1,2 +1,2 @@
 # adivina-el-numero
-aplicacion de adinar el numero en java
+código fuente de aplicacion de adivinar el numero en java
