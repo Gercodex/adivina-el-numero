@@ -32,5 +32,6 @@ public class Main {
             }
             intento++;
         }
+        scanner.close();
     }
 }
